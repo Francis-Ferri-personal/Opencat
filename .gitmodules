@@ -1,0 +1,3 @@
+[submodule "opencat_serial"]
+	path = opencat_serial
+	url = https://github.com/PetoiCamp/opencat_serial_cpp

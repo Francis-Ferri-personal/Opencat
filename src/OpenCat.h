@@ -138,7 +138,7 @@ byte pwm_pin[] = { 12, 11, 4, 3,
 #define LED_PIN 10
 
 #elif defined NyBoard_V1_2
-byte pwm_pin[] = { 12, 11, 4, 3,
+byte pwm_pin[] = { 11, 12, 4, 3,
                    13, 10, 5, 2,
                    14, 9, 6, 1,
                    15, 8, 7, 0 };
