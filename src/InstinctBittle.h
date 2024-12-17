@@ -430,6 +430,7 @@ const int8_t up[] PROGMEM = {
 const int8_t zero[] PROGMEM = { 
 1, 0, 0, 1,
     0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,};
+    // 70, 0, 0, 0, 0, 0, 0, 0, -60, 0, 0, 0, 60, 0, 0, 0,};
 
 const int8_t ang[] PROGMEM = { 
 -7, 0, 0, 1,
