@@ -1,0 +1,16 @@
+TODO: Integrate a red led or something toknow that the dog is hearing me
+
+https://www.youtube.com/watch?v=F62wb_jfUUw
+
+
+
+#TODO: You can use pyttsx3 for voice
+and speech_recognition (package) for the same
+
+#TODO: You can train a model with LSTM
+https://www.youtube.com/watch?v=ob0p7G2QoHA
+
+
+# TODO: USa la keyword activation de porcupine es muy rapida mira tu ejemplo
+wakeupword-porcupine.py
+https://picovoice.ai/docs/tips/choosing-a-wake-word/
