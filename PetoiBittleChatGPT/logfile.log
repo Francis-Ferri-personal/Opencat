@@ -1,0 +1,25 @@
+2024-12-20 00:09:14,439 ardSerial - INFO - ardSerial date: Jun. 20, 2024
+2024-12-20 00:09:15,586 ardSerial - INFO - *** Available serial ports: ***
+2024-12-20 00:09:15,586 ardSerial - INFO - COM6 
+2024-12-20 00:09:15,586 ardSerial - INFO - COM9 
+2024-12-20 00:09:15,586 ardSerial - INFO - COM4 
+2024-12-20 00:09:15,586 ardSerial - INFO - COM8 
+2024-12-20 00:09:38,580 ardSerial - INFO - Connect to serial port list:
+2024-12-20 00:09:38,580 ardSerial - INFO - COM9
+2024-12-20 00:09:44,629 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:09:48,515 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:09:49,762 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:09:49,794 comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\Workspace\\OpenCat\\PetoiBittleChatGPT\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-12-20 00:09:49,794 comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\Workspace\OpenCat\PetoiBittleChatGPT\.venv\Lib\site-packages\comtypes\gen'
+2024-12-20 00:10:14,623 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:10:32,448 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:10:52,287 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:11:11,337 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:11:31,883 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:11:50,292 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:12:06,482 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:12:28,672 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:12:49,312 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:13:09,007 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:13:29,907 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-20 00:13:48,081 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

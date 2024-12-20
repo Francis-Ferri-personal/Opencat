@@ -1,0 +1,261 @@
+[
+    {
+        "command-type": "Posture",
+        "command": "kbalance",
+        "command-explain": "stand up neutral",
+        "sample-sentence-english": "Dude can you stand in your natural stance?",
+        "sample-sentence-spanish": "Oye, ¿puedes pararte en tu postura natural?"
+    },
+    {
+        "command-type": "Posture",
+        "command": "kbuttUp",
+        "command-explain": "butt up",
+        "sample-sentence-english": "Come on buddy lift your hips a little.",
+        "sample-sentence-spanish": "Vamos amigo, levanta un poco las caderas."
+    },
+    {
+        "command-type": "Posture",
+        "command": "kcalib",
+        "command-explain": "calibration pose",
+        "sample-sentence-english": "Come on let's calibrate you",
+        "sample-sentence-spanish": "Vamos, vamos a calibrarte."
+    },
+    {
+        "command-type": "Posture",
+        "command": "kdropped",
+        "command-explain": "dropped by back legs",
+        "sample-sentence-english": "Can you drop your back legs?",
+        "sample-sentence-spanish": "¿Puedes bajar tus patas traseras?"
+    },
+    {
+        "command-type": "Posture",
+        "command": "klifted",
+        "command-explain": "lifted by neck",
+        "sample-sentence-english": "Lift them up from the neck and let's see",
+        "sample-sentence-spanish": "Levántalos por el cuello y veamos."
+    },
+    {
+        "command-type": "Posture",
+        "command": "klnd",
+        "command-explain": "landing pose",
+        "sample-sentence-english": "Let's go to landing pose now",
+        "sample-sentence-spanish": "Vamos a la posición de aterrizaje ahora."
+    },
+    {
+        "command-type": "Posture",
+        "command": "krest",
+        "command-explain": "rest",
+        "sample-sentence-english": "Come on we are tired now it's time to rest",
+        "sample-sentence-spanish": "Vamos, estamos cansados, es hora de descansar."
+    },
+    {
+        "command-type": "Posture",
+        "command": "ksit",
+        "command-explain": "sit",
+        "sample-sentence-english": "Hey calm down let's sit down now",
+        "sample-sentence-spanish": "Oye, cálmate, sentémonos ahora."
+    },
+    {
+        "command-type": "Posture",
+        "command": "kstr",
+        "command-explain": "stretch",
+        "sample-sentence-english": "Let's stretch the muscles a little",
+        "sample-sentence-spanish": "Estiremos un poco los músculos."
+    },
+    {
+        "command-type": "Posture",
+        "command": "kup",
+        "command-explain": "stand up neutral",
+        "sample-sentence-english": "Come on get up and let's see",
+        "sample-sentence-spanish": "Vamos, levántate y veamos."
+    },
+    {
+        "command-type": "Posture",
+        "command": "kzero",
+        "command-explain": "all joint at O degrees",
+        "sample-sentence-english": "Now let's pull all the joints to zero degrees",
+        "sample-sentence-spanish": "Ahora pongamos todas las articulaciones a cero grados."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kbdF",
+        "command-explain": "bound forward",
+        "sample-sentence-english": "Jump forward let's see",
+        "sample-sentence-spanish": "Salta hacia adelante, veamos."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kbk",
+        "command-explain": "backward",
+        "sample-sentence-english": "Go back buddy",
+        "sample-sentence-spanish": "Retrocede amigo."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kbkL",
+        "command-explain": "backward left",
+        "sample-sentence-english": "Go back to the left",
+        "sample-sentence-spanish": "Retrocede hacia la izquierda."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kcrF",
+        "command-explain": "crawl forward",
+        "sample-sentence-english": "How we used to crawl when we were in the army let's do it like that crawl",
+        "sample-sentence-spanish": "Como solíamos arrastrarnos en el ejército, hagámoslo así, arrástrate."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kcrL",
+        "command-explain": "crawl left",
+        "sample-sentence-english": "Enemy is in ambush let's crawl to the left",
+        "sample-sentence-spanish": "El enemigo está al acecho, arrastrémonos hacia la izquierda."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kgpF",
+        "command-explain": "gap forward",
+        "sample-sentence-english": "Forward gap move",
+        "sample-sentence-spanish": "Muévete hacia adelante saltando."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kgpL",
+        "command-explain": "gap left",
+        "sample-sentence-english": "Left gap move",
+        "sample-sentence-spanish": "Muévete hacia la izquierda saltando."
+    },
+    {
+        "command-type": "Walk",
+        "command": "khlw",
+        "command-explain": "halloween gait",
+        "sample-sentence-english": "How we used to walk on Halloween",
+        "sample-sentence-spanish": "Como solíamos caminar en Halloween."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kjpF",
+        "command-explain": "jump forward",
+        "sample-sentence-english": "Now it's time to jump. Jump buddy.",
+        "sample-sentence-spanish": "Ahora es momento de saltar. Salta amigo."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kphF",
+        "command-explain": "push forward",
+        "sample-sentence-english": "Push yourself forward",
+        "sample-sentence-spanish": "Empújate hacia adelante."
+    },
+    {
+        "command-type": "Walk",
+        "command": "kphL",
+        "command-explain": "push left",
+        "sample-sentence-english": "Now push yourself to the left",
+        "sample-sentence-spanish": "Ahora empújate hacia la izquierda."
+    },
+    {
+        "command-type": "Walk",
+        "command": "ktrF",
+        "command-explain": "trot Forward",
+        "sample-sentence-english": "Run forward buddy come on now",
+        "sample-sentence-spanish": "Corre hacia adelante amigo, vamos ahora"
+    },
+    {
+        "command-type": "Walk",
+        "command": "ktrL",
+        "command-explain": "trot left",
+        "sample-sentence-english": "Run to the left",
+        "sample-sentence-spanish": "Corre hacia la izquierda"
+    },
+    {
+        "command-type": "Walk",
+        "command": "kvtF",
+        "command-explain": "step at origin",
+        "sample-sentence-english": "Take a step",
+        "sample-sentence-spanish": "Da un paso"
+    },
+    {
+        "command-type": "Walk",
+        "command": "kvtL",
+        "command-explain": "spin left",
+        "sample-sentence-english": "Turn to the left buddy",
+        "sample-sentence-spanish": "Gira a la izquierda amigo"
+    },
+    {
+        "command-type": "Walk",
+        "command": "kwkF",
+        "command-explain": "walk Forward",
+        "sample-sentence-english": "Walk Forward",
+        "sample-sentence-spanish": "Camina hacia adelante"
+    },
+    {
+        "command-type": "Walk",
+        "command": "kwkL",
+        "command-explain": "walk left",
+        "sample-sentence-english": "Walk to the left",
+        "sample-sentence-spanish": "Camina hacia la izquierda"
+    },
+    {
+        "command-type": "Behavior",
+        "command": "",
+        "command-explain": "",
+        "sample-sentence-english": "",
+        "sample-sentence-spanish": ""
+    },
+    {
+        "command-type": "Behavior",
+        "command": "kang",
+        "command-explain": "angry",
+        "sample-sentence-english": "Come on buddy thieves are coming scare them get angry",
+        "sample-sentence-spanish": "Vamos amigo, vienen ladrones, asústalos, enójate"
+    },
+    {
+        "command-type": "Behavior",
+        "command": "kbf",
+        "command-explain": "backflip",
+        "sample-sentence-english": "Dude it's showtime we expect a backflip from you",
+        "sample-sentence-spanish": "Amigo, es hora del show, esperamos un salto hacia atrás de tu parte"
+    },
+    {
+        "command-type": "Behavior",
+        "command": "kbx",
+        "command-explain": "boxing",
+        "sample-sentence-english": "Hey now we are going into the ring it's boxing time",
+        "sample-sentence-spanish": "Oye, ahora vamos al ring, es hora de boxear"
+    },
+    {
+        "command-type": "Behavior",
+        "command": "kchr",
+        "command-explain": "cheers",
+        "sample-sentence-english": "Yeah I think we deserve applause too",
+        "sample-sentence-spanish": "Sí, creo que también merecemos aplausos"
+    },
+    {
+        "command-type": "Behavior",
+        "command": "kck",
+        "command-explain": "check",
+        "sample-sentence-english": "I heard a voice check the place",
+        "sample-sentence-spanish": "Escuché una voz, revisa el lugar"
+    },
+    {
+        "command-type": "Behavior",
+        "command": "kcmh",
+        "command-explain": "come here",
+        "sample-sentence-english": "Come here",
+        "sample-sentence-spanish": "Ven aquí"
+    },
+    {
+        "command-type": "Behavior",
+        "command": "kdg",
+        "command-explain": "dig",
+        "sample-sentence-english": "Hide the bone my friend dig",
+        "sample-sentence-spanish": "Esconde el hueso amigo, cava"
+    },
+    {
+        "command-type": "Behavior",
+        "command": "kff",
+        "command-explain": "front flip",
+        "sample-sentence-english": "I think there's an obstacle in front of you if you do a frontflip you can pass",
+        "sample-sentence-spanish": "Creo que hay un obstáculo frente a ti, si haces un salto hacia adelante puedes pasarlo"
+    }
+]
